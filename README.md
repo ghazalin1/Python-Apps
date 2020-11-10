@@ -1,3 +1,3 @@
 # Python-Apps
 
-#Made for GUI APPLICATION TKINTER
+#Made for GUI APPLICATIONs on TKINTER
