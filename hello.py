@@ -6,12 +6,11 @@ os.system('clear')
 
 root = Tk()
 root.title('GhazaliCode.com - Learn to code')
-root.iconbitmap('C:/Users/CZ 3/Desktop/PythonApps/dsc.ico')
-#on websites it's called favicon , on programs or real life it's called icon
+
 root.geometry("400x600")
 
-#everything is wdidget, to create a widget we create any type of variable
-#we create label   we use pack on the screen, we just want to pack
+#everything is widdget, to create a widget we create any type of variable
+#we create label  we use pack on the screen, we just want to pack.
 
 
 def hello():
@@ -42,5 +41,5 @@ myButton2.pack()
 
 
 root.mainloop()  
-#thats how interface generally works
+#thats how interface generally works. In loops.
 
